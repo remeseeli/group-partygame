@@ -16,7 +16,6 @@
     "vue-router": "^5.1.0"
   },
   "devDependencies": {
-    "@rolldown/binding-win32-arm64-msvc": "^1.1.4",
     "@vitejs/plugin-vue": "^6.0.7",
     "@vitejs/plugin-vue-jsx": "^5.1.5",
     "prettier": "3.8.4",
