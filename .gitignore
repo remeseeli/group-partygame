@@ -1,0 +1,11 @@
+# Ignored files and directories
+# .gitignore at repo root
+node_modules/
+dist/
+coverage/
+.vscode/
+.idea/
+.DS_Store
+*.log
+.env
+.env.*

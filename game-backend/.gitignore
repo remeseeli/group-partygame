@@ -1,0 +1,8 @@
+# Ignored files and directories
+# Ignore own questions - make your own questions.json file to store your questions
+questions.json
+# Ignore custom roster - make your own roster.json file to store your players (Use roster.example.json as example)
+roster.json
+# Ignore chat history (useful if you decide to import a groupchat message history)
+chathistory.txt
+node_modules/
