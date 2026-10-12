@@ -12,8 +12,6 @@ A local party game inspired by Jackbox, where friends guess who sent anonymous q
 - Automatic 4-letter room codes
 - Custom player profiles including profile pictures
 - Real-time multiplayer using WebSockets
-- 30-second voting timer
-- Simple synthesized sound effects using the Web Audio API
 - Togglable drink penalties for a fun evening
 - Simple separate form to add questions to the game deck
 
