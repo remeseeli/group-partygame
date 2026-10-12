@@ -24,6 +24,7 @@ You can easily adapt this game for your own friends without changing any code!
 1. **Set Player Names:** Open `game-backend/roster.json` and replace the default names with your friends' names.
 2. **Write Your Quotes:** Open `game-backend/questions.json` and add your favorite group chat quotes. Make sure the `"author"` field perfectly matches a name from your `roster.json`.
 3. **Add Custom Avatars (Optional):** Drop square `.png` images into `game-frontend/public/images/`. The file name must match the player's name exactly (e.g., `Andy.png`). If no image is provided, the game automatically falls back to a clean default icon.
+OR use the editor.js found in the backend-folder
 
 ---
 
